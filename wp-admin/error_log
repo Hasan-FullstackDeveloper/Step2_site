@@ -1,0 +1,1 @@
+[10-May-2023 09:14:00 UTC] PHP Warning:  Attempt to read property "title" on null in /home/stepdovo/public_html/wp-includes/class-wp-customize-widgets.php on line 905

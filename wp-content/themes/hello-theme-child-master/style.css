@@ -1,0 +1,232 @@
+/* 
+Theme Name: Hello Elementor Child
+Theme URI: https://github.com/elementor/hello-theme/
+Description: Hello Elementor Child is a child theme of Hello Elementor, created by Elementor team
+Author: Elementor Team
+Author URI: https://elementor.com/
+Template: hello-elementor
+Version: 1.0.1
+Text Domain: hello-elementor-child
+License: GNU General Public License v3 or later.
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Tags: flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, threaded-comments, translation-ready
+*/
+
+/*
+    Add your custom styles here
+*/
+
+body {
+    overflow-x: hidden;
+}
+
+.first {
+    background: linear-gradient(#4158d0 0%, #c553be 42.77%, #fcc674 100%);
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.home-services {
+    background-color: #f5f5f5 !important;
+    border-radius: 50px;
+}
+/* 
+.home-services {
+    background: linear-gradient(#4158d0 0%, #c450c0 42.77%, #ffcc70 100%);
+    border-radius: 50px;
+} */
+
+.portfolio-box {
+    box-shadow: 6.14px 20.08px 50px rgba(66, 112, 236, 0.15);
+    border-radius: 20px;
+}
+
+.portfolio-box .elementor-image-box-content {
+    padding-left: 15px;
+}
+
+.testimorial_slider .swiper-container {
+    box-shadow: 6.14px 20.08px 50px rgba(66, 112, 236, 0.15);
+}
+
+.testimorial_slider .swiper-slide {
+    box-shadow: 6.14px 20.08px 50px rgba(66, 112, 236, 0.15);
+}
+
+.testimorial-review {
+    background: #fff;
+    filter: drop-shadow(6.14px 20.08px 50px rgba(66, 112, 236, 0.15));
+    border-radius: 30px;
+    margin: 10px;
+    height: 200px !important;
+
+}
+
+/* .testimorial-section::after {
+    content: '';
+    background-image: url(https://dev.step2itsol.com/step2-new/wp-content/uploads/2023/04/Vector-2.png);
+    position: absolute;
+    left: unset;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    height: auto;
+    background-position: right;
+    z-index: -9999;
+    width: 100%;
+} */
+
+
+.testimorial-section::after {
+    content: '';
+    background-image: url(https://dev.step2itsol.com/step2-new/wp-content/uploads/2023/04/Vector-2.png);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 18rem;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.portfolio .elementor-column-gap-default>.elementor-column>.elementor-element-populated {
+    padding: 0px;
+}
+
+.img-small-box {
+    filter: drop-shadow(0px 30px 54px rgba(66, 112, 236, 0.2));
+
+}
+
+.testimonial-small-box {
+    box-shadow: 6.14px 20.08px 50px rgba(66, 112, 236, 0.15);
+
+}
+
+.testimonial-small-box .swiper-pagination-bullet {
+    width: 25px;
+    height: 0px;
+    border: 3px solid #4270ec;
+}
+
+.before-footer-sec {
+    background: linear-gradient(#4158d0 0%, #c850c0 42.77%, #ffcc70 100%);
+
+}
+
+.email a {
+    color: #262250;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.email a:hover {
+    color: #4270EC;
+    text-decoration: none;
+}
+
+.portfolio-box a {
+    text-decoration: none;
+}
+
+.contact-form span.wpforms-required-label {
+    display: none;
+}
+
+.contact-form .wpforms-field-label {
+    color: #262250 !important;
+    font-family: 'poppins' !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    margin-bottom: 10px !important;
+}
+
+.contact-form .wpforms-field-large {
+    border-radius: 20px !important;
+    padding-left: 10px !important;
+    border-color: #262250 !important;
+    color: #262250 !important;
+    font-family: 'poppins' !important;
+    font-size: 13px !important;
+    font-weight: 500;
+    margin-bottom: 5px !important;
+}
+
+.contact-form .wpforms-field-medium {
+    border-radius: 20px !important;
+    padding-left: 10px !important;
+    border-color: #262250 !important;
+    color: #262250 !important;
+    font-family: 'poppins' !important;
+    font-size: 13px !important;
+    font-weight: 500;
+    margin-bottom: 5px !important;
+}
+
+.contact-form .wpforms-submit {
+    font-family: "Poppins", Sans-serif !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    text-decoration: none !important;
+    fill: #FFFFFF !important;
+    color: #FFFFFF !important;
+    background-color: var(--e-global-color-secondary) !important;
+    border-radius: 30px 30px 30px 30px !important;
+    padding: 10px 35px !important;
+}
+
+.elementor-tabs .elementor-tab-title {
+    word-break: break-word;
+}
+
+.testimorial_slider .swiper-slide {
+    height: 200px !important;
+}
+
+.elementor-8 .elementor-element.elementor-element-b2d58f0 .elementor-nav-menu--dropdown a.elementor-item-active {
+    color: white !important;
+}
+
+
+@media only screen and (max-width: 1025px) {
+
+    .services-laptop-img {
+        display: none;
+    }
+
+    .elementor-78 .elementor-element.elementor-element-c158850:not(.elementor-motion-effects-element-type-background),
+    .elementor-78 .elementor-element.elementor-element-c158850>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background: none;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .home-services {
+        border-radius: 30px;
+    }
+
+    .testimorial-section::after {
+        display: none;
+    }
+
+    .elementor-tabs .elementor-tab-mobile-title {
+        display: none !important;
+    }
+
+    .elementor-tabs .elementor-tabs-wrapper {
+        display: block !important;
+    }
+
+    .elementor-tabs .elementor-tab-desktop-title {
+        word-break: break-word;
+        display: inline-flex !important;
+    }
+
+    .elementor-tab-desktop-title {
+        font-size: 14px !important;
+    }
+
+}

@@ -1,0 +1,32 @@
+[26-May-2023 09:29:21 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/stepdovo/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/public_html/wp-includes/blocks/index.php on line 8
+[26-May-2023 12:26:40 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/stepdovo/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/public_html/wp-includes/blocks/index.php on line 8
+[26-May-2023 14:26:02 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/stepdovo/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/public_html/wp-includes/blocks/index.php on line 8
+[01-Jun-2023 18:10:35 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/stepdovo/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/public_html/wp-includes/blocks/index.php on line 8
+[02-Jun-2023 18:48:07 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/stepdovo/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/public_html/wp-includes/blocks/index.php on line 8
+[03-Jun-2023 01:55:45 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/stepdovo/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/public_html/wp-includes/blocks/index.php on line 8
+[03-Jun-2023 22:17:18 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/stepdovo/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/public_html/wp-includes/blocks/index.php on line 8
+[04-Jun-2023 00:12:28 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/stepdovo/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stepdovo/public_html/wp-includes/blocks/index.php on line 8
